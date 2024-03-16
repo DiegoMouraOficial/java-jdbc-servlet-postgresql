@@ -38,4 +38,8 @@ build/
 .DS_Store
 
 ### Dados sensiveis de conexão com o Banco de Dados
+<<<<<<< HEAD
 /src/main/resources/db.properties
+=======
+!**/src/main/resources/db.properties
+>>>>>>> 0004045de83b97091e4b49481dcb8e0d860dd43d
